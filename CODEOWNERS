@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @zgingerbread
+/src/backend/database.py      @zgingerbread
+/src/backend/routers/auth.py  @zgingerbread
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @zgingerbread
